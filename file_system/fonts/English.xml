@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<!-- NAME LIMIT=32 CHAR LIMIT=32 -->
+
+    <string content="name=version_confirm size=20 color=255:255:0 location=400:20" >NONE</string>
+    <string content="name=wifi_net size=20 color=255:255:255 location=1180:680" >NONE</string>
+
+	<string content="name=version_tag_ota size=18 color=255:255:0 location=1115:640" >Version:</string>
+	<string content="name=version_no_ota size=18 color=255:255:0 location=1180:640" >NONE</string>
+	<string content="name=version_tag size=18 color=255:255:255 location=1115:640" >Version:</string>
+	<string content="name=version_no size=18 color=255:255:255 location=1180:640" >NONE</string>
+
+	<string content="name=device_name size=22 color=255:255:255 location=525:38" >NONE</string>
+	<string content="name=ap size=20 color=255:255:255 location=1140:60" >NONE</string>
+	<string content="name=device_pw size=20 color=255:255:255 location=835:38" >NONE</string>
+	<string content="name=pwd size=20 color=255:255:255 location=740:38" >Password:</string>
+	<string content="name=ip_1 size=20 color=255:255:255 location=945:38" >IP:</string>
+	<string content="name=device_ip size=20 color=255:255:255 location=970:38" >IP:</string>
+	<string content="name=ip_2 size=20 color=255:255:255 location=845:38" >IP:</string>
+	<string content="name=local_ip_address size=20 color=255:255:255 location=870:38" >IP:</string>
+
+	<string content="name=mode size=30 color=255:255:255 location=200:438">Miracast  DLNA  Airplay</string>
+
+	<string content="name=status subname=p2p_waiting size=40 color=255:255:255 location=375:500">Waiting for connection...</string>
+	<string content="name=status subname=p2p_obtain_ip size=40 color=255:255:255 location=375:500">Obtaining IP address...</string>
+	<string content="name=status subname=p2p_dispatch_ip size=40 color=255:255:255 location=375:500">Dispatching IP address...</string>
+	<string content="name=status subname=p2p_device_lost size=40 color=255:255:255 location=375:500">Device lost...</string>
+	<string content="name=status subname=p2p_connecting size=40 color=255:255:255 location=375:500">Connection in progress...</string>
+	<string content="name=status subname=p2p_disconnecting size=40 color=255:255:255 location=375:500">Disconnecting...</string>
+	<string content="name=status subname=prepare_display size=40 color=255:255:255 location=375:500">Preparing for display...</string>
+	<string content="name=status subname=ready_to_display size=40 color=255:255:255 location=375:500">Ready to display...</string>
+	<string content="name=status subname=start_rtsp size=18 color=255:255:255 location=1280:720">start RTSP...</string>
+
+	<string content="name=mode subname=ota size=24 color=255:0:0 location=60:80">OTA</string>
+	<string content="name=mode subname=reset size=24 color=255:0:0 location=60:80">Reset</string>
+	<string content="name=mode subname=switch size=28 color=255:255:255 location=61:160">Switching...</string>
+
+	<string content="name=peer_device_name size=20 color=255:255:255 location=1280:720" >NONE</string>
+	<string content="name=mac_address size=20 color=255:255:255 location=1280:720" >MAC:</string>
+	<string content="name=peer_ip_address size=18 color=255:255:255 location=1280:720" >NONE</string>
+	<string content="name=dongle_freq size=18 color=255:255:255 location=1281:720" >NONE</string>
+	<string content="name=phone_freq size=18 color=255:255:255 location=1280:720" >NONE</string>
+    <string content="name=pin_code size=15 color=236:236:0 location=1280:720" >NONE</string>	
+<!-- DLNA  -->
+	<string content="name=device_ip0 size=20 color=255:255:255 location=1281:720" >NONE</string>
+	<string content="name=device_ip0_2 size=20 color=255:255:255 location=920:60" >NONE</string>
+	<string content="name=device_ip1 size=20 color=255:255:255 location=210:480" >NONE</string>
+	<string content="name=information1 size=20 color=255:255:255 location=1281:720" >IP:192.168.49.1</string>
+	<string content="name=or size=18 color=255:255:255 location=1281:720" >OR</string>
+	<string content="name=ap_ssid2 size=18 color=255:255:255 location=1281:720" >NONE</string>
+
+	<string content="name=information2 size=22 color=255:255:255 location=1281:720" >Password:12345678 </string>
+	<string content="name=webpage1 size=18 color=255:255:255 location=1281:720" >NONE</string>
+	<string content="name=when_connected_to_1 size=18 color=255:255:255 location=1281:720" >when connected to</string>
+	<string content="name=info_ssid_1 size=18 color=255:255:255 location=1281:720" >NONE</string>
+
+	<string content="name=webpage2 size=18 color=255:255:0 location=1281:720" >NONE</string>
+	<string content="name=when_connected_to_2 size=18 color=255:255:0 location=1281:720" >when connected to</string>
+	<string content="name=info_ssid_2 size=18 color=255:255:0 location=1281:720" >NONE</string>
+
+	<string content="name=information3 size=18 color=255:255:255 location=1281:720" >To switch mode, please open web browser on your device and visit </string>
+	<string content="name=webpage3 size=18 color=255:255:0 location=1281:720" >NONE</string>
+
+<!-- for OTA -->
+	<string content="name=new_update_notify size=24 color=255:0:0 location=320:180" >New Update found!</string>
+	<string content="name=new_update_waitting size=24 color=255:0:0 location=320:240" >Prepare update ... ... </string>
+	<string content="name=new_update_waitting_count size=24 color=255:0:0 location=600:240" >NONE</string>
+	<string content="name=new_update_waitting_ok size=24 color=255:0:0 location=710:240" >Prepare to update ... ... ok! </string>
+	<string content="name=new_version size=24 color=255:255:0 location=580:180" >NONE</string>
+	<string content="name=download size=24 color=255:255:0 location=780:180" >Download</string>
+	<string content="name=download_progress size=24 color=255:0:0 location=900:180" >0%</string>
+
+	<string content="name=download_status subname=download_complete size=24 color=255:255:0 location=320:270" >Download complete!   Checking firmware...</string>
+	<string content="name=download_status subname=download_error size=24 color=255:255:0 location=320:300" >Download error!  Try to reboot and download again</string>
+	<string content="name=firmware_ready size=24 color=255:255:0 location=320:300" >Firmware is ready to update ... ... </string>
+	<string content="name=firmware_error size=24 color=255:255:0 location=320:300" >Firmware error!  Try to reboot and download again.</string>
+
+	<string content="name=update_to size=24 color=255:255:255 location=360:200">Update to</string>
+	<string content="name=update_version size=24 color=255:255:0 location=500:200">NONE</string>
+	<string content="name=warnning size=24 color=255:0:0 location=320:210">WARNNING: Do NOT power off or operate during updating!</string>
+	<string content="name=reboot size=24 color=255:0:0 location=320:240">Success! Please reboot dongle!</string>
+	<string content="name=update_fail size=24 color=255:0:0 location=320:240">FATAL: Update failed!</string>
+
+	<string content="name=erase_tag size=28 color=255:255:255 location=500:300">Erase</string>
+	<string content="name=write_tag size=28 color=255:255:255 location=620:300">Write</string>
+	<string content="name=check_tag size=28 color=255:255:255 location=740:300">Check</string>
+
+	<string content="name=disk0 size=28 color=255:255:255 location=360:340">Disk0</string>
+	<string content="name=disk1 size=28 color=255:255:255 location=360:380">Disk1</string>
+	<string content="name=disk2 size=28 color=255:255:255 location=360:420">Disk2</string>
+	<string content="name=disk3 size=28 color=255:255:255 location=360:460">Disk3</string>
+	<string content="name=disk4 size=28 color=255:255:255 location=360:500">Disk4</string>
+
+	<string content="name=progress0e size=28 color=255:255:0 location=500:340" >N/A</string>
+	<string content="name=progress1e size=28 color=255:255:0 location=500:380" >%0</string>
+	<string content="name=progress2e size=28 color=255:255:0 location=500:420" >%0</string>
+	<string content="name=progress3e size=28 color=255:255:0 location=500:460" >%0</string>
+	<string content="name=progress4e size=28 color=255:255:0 location=500:500" >%0</string>
+
+	<string content="name=progress0w size=28 color=255:255:0 location=620:340" >N/A</string>
+	<string content="name=progress1w size=28 color=255:255:0 location=620:380" >%0</string>
+	<string content="name=progress2w size=28 color=255:255:0 location=620:420" >%0</string>
+	<string content="name=progress3w size=28 color=255:255:0 location=620:460" >%0</string>
+	<string content="name=progress4w size=28 color=255:255:0 location=620:500" >%0</string>
+
+	<string content="name=progress0c size=28 color=255:255:0 location=740:340" >N/A</string>
+	<string content="name=progress1c size=28 color=255:255:0 location=740:380" >N/A</string>
+	<string content="name=progress2c size=28 color=255:255:0 location=740:420" >N/A</string>
+	<string content="name=progress3c size=28 color=255:255:0 location=740:460" >N/A</string>
+	<string content="name=progress4c size=28 color=255:255:0 location=740:500" >N/A</string>
+
+<!-- reset -->
+	<string content="name=erase_userdata size=28 color=255:255:0 location=320:200" >Erase user data...</string>
+	<string content="name=erase_userdata_fail size=28 color=255:0:0 location=320:240" >FATAL: Erase user data failed!</string>
+	<string content="name=update_img_minutes size=24 color=255:255:0 location=320:330" >Updating img takes 8 ~ 10 minutes</string>
+	<string content="name=update_img_waiting size=24 color=255:255:0 location=320:360" >Please wait ... ...</string>
+	<string content="name=update_img_over size=28 color=255:0:0 location=320:390" >update img ok </string>
+
+</resources>
