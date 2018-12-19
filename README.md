@@ -3,8 +3,23 @@ Custom Wecast rk3036 project
 
 ## HowTo
 
-#### Tool
-flashrom: https://www.flashrom.org/Flashrom
+#### Tools
+
+Dump the flash:
+- Raspberry Pi
+- flashrom: https://www.flashrom.org/Flashrom
+
+Get info from dump:
+- binwalk: https://github.com/ReFirmLabs/binwalk
+
+Extract file system:
+- dd command
+
+Descompress the SquashFS file system:
+- unsquashfs
+
+Compress the SquashFS file system:
+- mksquashfs
 
 #### Pinout
 
@@ -16,3 +31,5 @@ flashrom: https://www.flashrom.org/Flashrom
 | 21 | 8 |
 | 19 | 15 |
 | 17 | 2 |
+
+![](images/pinout.png)
