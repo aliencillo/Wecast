@@ -1,0 +1,15 @@
+Dump the flash:
+	Raspberry Pi
+	flashrom: https://www.flashrom.org/Flashrom
+
+Get info from dump:
+	binwalk: https://github.com/ReFirmLabs/binwalk
+
+Extract file system:
+	dd command
+
+Descompress the SquashFS file system:
+	unsquashfs
+
+Compress the SquashFS file system:
+	mksquashfs
