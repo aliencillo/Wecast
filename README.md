@@ -3,7 +3,7 @@ Custom Wecast rk3036 project
 
 ## HowTo
 
-#### Tools
+### Tools
 
 Dump the flash:
 - Raspberry Pi
@@ -21,7 +21,7 @@ Descompress the SquashFS file system:
 Compress the SquashFS file system:
 - mksquashfs
 
-#### Pinout
+### Pinout
 
 | RPi pin | SPI |
 |:-------:|:---:|
